@@ -1,0 +1,1 @@
+# TapMind-Custom-Adapter

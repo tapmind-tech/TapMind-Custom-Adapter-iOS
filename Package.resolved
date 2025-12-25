@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-package-manager-google-mobile-ads",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
+      "state" : {
+        "revision" : "7778cc1ab037c10dbbe026959e51e616bd961be9",
+        "version" : "11.13.0"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-user-messaging-platform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+      "state" : {
+        "revision" : "708a282840c2171ee63bd93b87afa49fe507d70e",
+        "version" : "2.7.0"
+      }
+    },
+    {
+      "identity" : "tapmindsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishantuvoc/TapMindSDK.git",
+      "state" : {
+        "revision" : "3dd5d638cacb5fff7cea8739c84da3d9afe0aa06",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TapMindAdapter'
-  s.version          = '2.1.11'
+  s.version          = '2.1.12'
   s.summary          = 'A high-performance iOS Adapter for delivering intelligent and optimized ads.'
 
   s.description      = <<-DESC
@@ -25,5 +25,5 @@ s.vendored_frameworks = 'TapMindAdapter.xcframework'
 #s.static_framework = true
 s.requires_arc = true
 # 👉 Dependencies
-  s.dependency 'TapMindSDK','1.2.6'
+  s.dependency 'TapMindSDK','1.2.7'
 end

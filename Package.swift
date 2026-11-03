@@ -16,7 +16,7 @@ let package = Package(
         // Google Mobile Ads official Swift Package
         .package(
             url: "https://github.com/kishantuvoc/TapMindSDK.git",
-            from: "3.1.0"
+            exact: "3.1.0"
         )
     ],
     targets: [
